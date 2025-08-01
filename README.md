@@ -8,6 +8,4 @@ Build knowledge graph (skills + dependencies)
 
 Create connected summaries with lesson & section references
 
-Embed sections (raw+summary) → Store in vector DB
-
-User reads summaries → Asks questions → RAG retrieves & GPT answers
+User reads summaries → Asks questions → GPT answers
